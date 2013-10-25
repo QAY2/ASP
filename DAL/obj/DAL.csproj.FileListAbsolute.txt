@@ -1,0 +1,10 @@
+Z:\xDozent\DAL\bin\Debug\DAL.dll
+Z:\xDozent\DAL\bin\Debug\DAL.pdb
+Z:\xDozent\DAL\obj\Debug\ResolveAssemblyReference.cache
+Z:\xDozent\DAL\obj\Debug\DAL.dll
+Z:\xDozent\DAL\obj\Debug\DAL.pdb
+Z:\DAL\bin\Debug\DAL.dll
+Z:\DAL\bin\Debug\DAL.pdb
+Z:\DAL\obj\Debug\ResolveAssemblyReference.cache
+Z:\DAL\obj\Debug\DAL.dll
+Z:\DAL\obj\Debug\DAL.pdb

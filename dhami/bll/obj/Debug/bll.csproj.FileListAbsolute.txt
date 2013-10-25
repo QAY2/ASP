@@ -1,0 +1,49 @@
+c:\users\heigert\documents\visual studio 2012\Projects\Pizza\bll\bin\Debug\bll.dll
+c:\users\heigert\documents\visual studio 2012\Projects\Pizza\bll\bin\Debug\bll.pdb
+c:\users\heigert\documents\visual studio 2012\Projects\Pizza\bll\obj\Debug\bll.dll
+c:\users\heigert\documents\visual studio 2012\Projects\Pizza\bll\obj\Debug\bll.pdb
+C:\Users\heigert\Documents\Visual Studio 2012\Projects\Pizza\bll\bin\Debug\DAL.dll
+C:\Users\heigert\Documents\Visual Studio 2012\Projects\Pizza\bll\bin\Debug\DAL.pdb
+C:\Users\heigert\Documents\Visual Studio 2012\Projects\Pizza\bll\obj\Debug\bll.csprojResolveAssemblyReference.cache
+Z:\PizzaOrig\bll\bin\Debug\bll.dll
+Z:\PizzaOrig\bll\bin\Debug\bll.pdb
+Z:\PizzaOrig\bll\bin\Debug\DAL.dll
+Z:\PizzaOrig\bll\bin\Debug\DAL.pdb
+Z:\PizzaOrig\bll\obj\Debug\bll.dll
+Z:\PizzaOrig\bll\obj\Debug\bll.pdb
+Z:\PizzaOrig\bll\obj\Debug\bll.csprojResolveAssemblyReference.cache
+W:\PizzaOrig\bll\bin\Debug\bll.dll
+W:\PizzaOrig\bll\bin\Debug\bll.pdb
+W:\PizzaOrig\bll\bin\Debug\DAL.pdb
+W:\PizzaOrig\bll\obj\Debug\bll.csprojResolveAssemblyReference.cache
+W:\PizzaOrig\bll\obj\Debug\bll.dll
+W:\PizzaOrig\bll\obj\Debug\bll.pdb
+\\10.28.1.29\sw1\dhami\bll\bin\Debug\bll.dll
+\\10.28.1.29\sw1\dhami\bll\bin\Debug\bll.pdb
+\\10.28.1.29\sw1\dhami\bll\bin\Debug\DAL.dll
+\\10.28.1.29\sw1\dhami\bll\bin\Debug\DAL.pdb
+\\10.28.1.29\sw1\dhami\bll\obj\Debug\bll.dll
+\\10.28.1.29\sw1\dhami\bll\obj\Debug\bll.pdb
+Z:\dhami\bll\bin\Debug\bll.dll
+Z:\dhami\bll\bin\Debug\bll.pdb
+Z:\dhami\bll\bin\Debug\DAL.dll
+Z:\dhami\bll\obj\Debug\bll.csprojResolveAssemblyReference.cache
+Z:\dhami\bll\obj\Debug\bll.dll
+Z:\dhami\bll\obj\Debug\bll.pdb
+X:\dhami\bll\obj\Debug\bll.csprojResolveAssemblyReference.cache
+Z:\dhami\bll\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+Z:\dhami\bll\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+X:\dhami\bll\bin\Debug\bll.dll
+X:\dhami\bll\bin\Debug\bll.pdb
+X:\dhami\bll\bin\Debug\DAL.dll
+X:\dhami\bll\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+X:\dhami\bll\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+X:\dhami\bll\obj\Debug\bll.dll
+X:\dhami\bll\obj\Debug\bll.pdb
+C:\Users\gopi\Desktop\Pizza\dhami\bll\bin\Debug\bll.dll
+C:\Users\gopi\Desktop\Pizza\dhami\bll\bin\Debug\bll.pdb
+C:\Users\gopi\Desktop\Pizza\dhami\bll\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\gopi\Desktop\Pizza\dhami\bll\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\gopi\Desktop\Pizza\dhami\bll\obj\Debug\bll.csprojResolveAssemblyReference.cache
+C:\Users\gopi\Desktop\Pizza\dhami\bll\obj\Debug\bll.dll
+C:\Users\gopi\Desktop\Pizza\dhami\bll\obj\Debug\bll.pdb

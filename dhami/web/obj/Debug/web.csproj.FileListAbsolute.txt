@@ -1,0 +1,60 @@
+c:\users\heigert\documents\visual studio 2012\Projects\Pizza\web\bin\web.dll
+c:\users\heigert\documents\visual studio 2012\Projects\Pizza\web\bin\web.pdb
+c:\users\heigert\documents\visual studio 2012\Projects\Pizza\web\obj\Debug\web.csprojResolveAssemblyReference.cache
+c:\users\heigert\documents\visual studio 2012\Projects\Pizza\web\obj\Debug\web.dll
+c:\users\heigert\documents\visual studio 2012\Projects\Pizza\web\obj\Debug\web.pdb
+C:\Users\heigert\Documents\Visual Studio 2012\Projects\Pizza\web\bin\bll.dll
+C:\Users\heigert\Documents\Visual Studio 2012\Projects\Pizza\web\bin\DAL.dll
+C:\Users\heigert\Documents\Visual Studio 2012\Projects\Pizza\web\bin\bll.pdb
+C:\Users\heigert\Documents\Visual Studio 2012\Projects\Pizza\web\bin\DAL.pdb
+Z:\PizzaOrig\web\bin\web.dll
+Z:\PizzaOrig\web\bin\web.pdb
+Z:\PizzaOrig\web\bin\bll.dll
+Z:\PizzaOrig\web\bin\DAL.dll
+Z:\PizzaOrig\web\bin\bll.pdb
+Z:\PizzaOrig\web\bin\DAL.pdb
+Z:\PizzaOrig\web\obj\Debug\web.csprojResolveAssemblyReference.cache
+Z:\PizzaOrig\web\obj\Debug\web.dll
+Z:\PizzaOrig\web\obj\Debug\web.pdb
+W:\PizzaOrig\web\bin\web.dll
+W:\PizzaOrig\web\bin\web.pdb
+W:\PizzaOrig\web\bin\bll.dll
+W:\PizzaOrig\web\bin\DAL.dll
+W:\PizzaOrig\web\bin\bll.pdb
+W:\PizzaOrig\web\bin\DAL.pdb
+W:\PizzaOrig\web\obj\Debug\web.csprojResolveAssemblyReference.cache
+W:\PizzaOrig\web\obj\Debug\web.dll
+W:\PizzaOrig\web\obj\Debug\web.pdb
+Z:\dhami\web\bin\web.dll
+Z:\dhami\web\bin\web.pdb
+Z:\dhami\web\bin\bll.dll
+Z:\dhami\web\bin\DAL.dll
+Z:\dhami\web\bin\bll.pdb
+Z:\dhami\web\obj\Debug\web.dll
+Z:\dhami\web\obj\Debug\web.pdb
+\\10.28.1.29\sw1\dhami\web\bin\web.dll
+\\10.28.1.29\sw1\dhami\web\bin\web.pdb
+\\10.28.1.29\sw1\dhami\web\bin\bll.dll
+\\10.28.1.29\sw1\dhami\web\bin\DAL.dll
+\\10.28.1.29\sw1\dhami\web\bin\bll.pdb
+\\10.28.1.29\sw1\dhami\web\bin\DAL.pdb
+\\10.28.1.29\sw1\dhami\web\obj\Debug\web.csprojResolveAssemblyReference.cache
+\\10.28.1.29\sw1\dhami\web\obj\Debug\web.dll
+\\10.28.1.29\sw1\dhami\web\obj\Debug\web.pdb
+Z:\dhami\web\obj\Debug\web.csprojResolveAssemblyReference.cache
+X:\dhami\web\obj\Debug\web.csprojResolveAssemblyReference.cache
+X:\dhami\web\bin\web.dll
+X:\dhami\web\bin\web.pdb
+X:\dhami\web\bin\bll.dll
+X:\dhami\web\bin\DAL.dll
+X:\dhami\web\bin\bll.pdb
+X:\dhami\web\obj\Debug\web.dll
+X:\dhami\web\obj\Debug\web.pdb
+C:\Users\gopi\Desktop\Pizza\dhami\web\bin\web.dll
+C:\Users\gopi\Desktop\Pizza\dhami\web\bin\web.pdb
+C:\Users\gopi\Desktop\Pizza\dhami\web\bin\bll.dll
+C:\Users\gopi\Desktop\Pizza\dhami\web\bin\DAL.dll
+C:\Users\gopi\Desktop\Pizza\dhami\web\bin\bll.pdb
+C:\Users\gopi\Desktop\Pizza\dhami\web\obj\Debug\web.csprojResolveAssemblyReference.cache
+C:\Users\gopi\Desktop\Pizza\dhami\web\obj\Debug\web.dll
+C:\Users\gopi\Desktop\Pizza\dhami\web\obj\Debug\web.pdb

@@ -1,0 +1,14 @@
+Y:\DAL\bin\Debug\DAL.dll
+Y:\DAL\bin\Debug\DAL.pdb
+Y:\DAL\obj\Debug\ResolveAssemblyReference.cache
+Y:\DAL\obj\Debug\DAL.dll
+Y:\DAL\obj\Debug\DAL.pdb
+Z:\DAL\bin\Debug\DAL.dll
+Z:\DAL\bin\Debug\DAL.pdb
+Z:\DAL\obj\Debug\ResolveAssemblyReference.cache
+Z:\DAL\obj\Debug\DAL.dll
+Z:\DAL\obj\Debug\DAL.pdb
+C:\Users\heigert\Documents\Visual Studio 2012\Projects\DAL\bin\Debug\DAL.dll
+C:\Users\heigert\Documents\Visual Studio 2012\Projects\DAL\bin\Debug\DAL.pdb
+C:\Users\heigert\Documents\Visual Studio 2012\Projects\DAL\obj\Debug\DAL.dll
+C:\Users\heigert\Documents\Visual Studio 2012\Projects\DAL\obj\Debug\DAL.pdb
